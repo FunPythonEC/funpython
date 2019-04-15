@@ -2,11 +2,11 @@
 
 “Creemos en unir mentes apasionadas , creativas y curiosas en una comunidad cuyo interés sea aprender y compartir experiencias en la construcción de ideas en objetos tangibles de manera rápida y sencilla, mediante una misma plataforma libre”
 
-## RESUMEN EJECUTIVO
+## Resumen Ejecutivo
 
 FunPython decidió crear una innovación disruptiva junto al avance en aplicaciones de programación y electrónica de forma interactiva y dinámica a través del trabajo en equipo de personas apasionadas y creativas con el fin de compartir experiencias y plasmar ideas formando un grupo multidisciplinario que aprenden y transmiten lo aprendido. 
 
-## OBJETIVOS DE FUNPYTHON
+## Objetivos de FunPython
 
 * FunPython busca impulsar y fortalecer el talento humano. De esta forma se promueve la creatividad y se incrementa el desarrollo de productos para solucionar problemáticas de la comunidad.
 * FunPython espera que los diferentes integrantes se tornen en potenciales desarrolladores y colaboren entre si con el objetivo de materializar e impulsar sus ideas a productos mínimos viables
@@ -20,7 +20,7 @@ Para prototipar cualquier idea, hacemos reuniones mensuales para trabajar y post
 ## ¿Por qué creemos en esta metodología?
 Hemos elegido esta metodología por considerarla conveniente para acelerar el desarrollo dentro de los miembros del grupo y la sociedad en sí, debido a que los miembros son capaces de complementar sus conocimientos, ya que es un grupo multidisciplinario, que crea, se divierte y comparte.
 
-## PROYECTOS
+## Proyectos más destacados
 
 * Robots móviles controlados con app mediante Wi-Fi/Bt para participación en la categoría de Fútbol Robótico.
 * Sistema Domótico con microPython, Amazon Alexa y Google Assistant.
