@@ -22,11 +22,11 @@ Hemos elegido esta metodología por considerarla conveniente para acelerar el de
 
 ## Proyectos más destacados
 
-* Robots móviles controlados con app mediante Wi-Fi/Bt para participación en la categoría de Fútbol Robótico.
-* Sistema Domótico con microPython, Amazon Alexa y Google Assistant.
-* Luces direccionales para seguridad de los ciclistas.
-* Lámparas con luces reactivas al sonido con múltiples animaciones con comunicación WiFi.
-* Arte visual con luces led programables.
+* [Robots móviles controlados via WiFi](https://github.com/FunPythonEC/Robot_soccer)
+* [Domótica con MicroPython, Amazon Alexa y Google Assistant](https://github.com/FunPythonEC/AWS_Py)
+* [Luces direccionales para ciclistas](https://github.com/FunPythonEC/Direccionales_para_bicicleta)
+* [Luces reactivas al sonido WiFi](https://github.com/FunPythonEC/Luces_Ritmicas_Digitales_WiFi)
+* Arte visual con luces led programables
 
 
 
