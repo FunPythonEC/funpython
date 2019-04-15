@@ -2,7 +2,7 @@ Welcome to the Comunidad FunPython wiki!
 
 # FunPython
 
-FUNPYTHON ES UNA COMUNIDAD Y RED DE INVESTIGACIÓN E INNOVACIÓN QUE BUSCA UNIR A MENTES CREATIVAS MEDIANTE EL INTERCAMBIO DE IDEAS, EXPERIENCIAS Y COLABORACIÓNES.
+“Creemos en unir mentes apasionadas , creativas y curiosas en una comunidad cuyo interés sea aprender y compartir experiencias en la construcción de ideas en objetos tangibles de manera rápida y sencilla, mediante una misma plataforma libre”
 
 ## RESUMEN EJECUTIVO
 
