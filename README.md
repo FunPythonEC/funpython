@@ -11,6 +11,15 @@ FunPython decidió crear una innovación disruptiva junto al avance en aplicacio
 * FunPython busca impulsar y fortalecer el talento humano. De esta forma se promueve la creatividad y se incrementa el desarrollo de productos para solucionar problemáticas de la comunidad.
 * FunPython espera que los diferentes integrantes se tornen en potenciales desarrolladores y colaboren entre si con el objetivo de materializar e impulsar sus ideas a productos mínimos viables
 
+## ¿En qué consiste nuestro metodología de trabajo?
+Como comunidad tenemos 2 tipos de reuniones:
+* Trabajo (Desarrollo de hardware y software)
+* Charlas/Ponencias/Exposiciones demostrativas
+Para prototipar cualquier idea, hacemos reuniones mensuales para trabajar y posteriormente subir a nuestro repositorio en GitHub con el fin de aportar con conocimiento a la sociedad bajo la filosofía open source. Adicionalmente estos proyectos o iniciativas son ​ expuestos en instituciones u organizaciones ​ a nivel nacional e internacional, ​ mediante un cronograma anual​ .
+
+## ¿Por qué creemos en esta metodología?
+Hemos elegido esta metodología por considerarla conveniente para acelerar el desarrollo dentro de los miembros del grupo y la sociedad en sí, debido a que los miembros son capaces de complementar sus conocimientos, ya que es un grupo multidisciplinario, que crea, se divierte y comparte.
+
 ## PROYECTOS
 
 * Robots móviles controlados con app mediante Wi-Fi/Bt para participación en la categoría de Fútbol Robótico.
