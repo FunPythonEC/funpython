@@ -1,0 +1,24 @@
+paths:
+  uploads: uploads
+  data: _data
+  layouts: _layouts
+  includes: _includes
+collections_config: {}
+_inputs:
+  categories:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  tags:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+_select_data: {}
+_structures: {}
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
